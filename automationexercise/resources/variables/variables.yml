@@ -1,0 +1,27 @@
+web_variables:
+  WEB_BROWSER: https://www.automationexercise.com/
+  WEB_DRIVER: chrome
+  global_count: 5  # for counting in loop
+  global_wait: 10
+
+
+# API test
+
+user:
+  name: John Doe
+  email: john.do234e@example.com
+  password: securepassword123
+  title: Mr  # Could be 'Mr', 'Mrs', 'Miss', etc.
+  birth_date: '15'
+  birth_month: August
+  birth_year: '1985'
+  firstname: John
+  lastname: Doe
+  company: Tech Solutions
+  address1: 123 Main Street
+  address2: Apt 4B
+  country: USA
+  zipcode: '10001'
+  state: NY
+  city: New York
+  mobile_number: '+1234567890'
